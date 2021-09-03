@@ -1,0 +1,16 @@
+C:\Users\stine\source\repos\CodeAlongTh\CodeAlongTh\bin\Debug\net5.0\CodeAlongTh.exe
+C:\Users\stine\source\repos\CodeAlongTh\CodeAlongTh\bin\Debug\net5.0\CodeAlongTh.deps.json
+C:\Users\stine\source\repos\CodeAlongTh\CodeAlongTh\bin\Debug\net5.0\CodeAlongTh.runtimeconfig.json
+C:\Users\stine\source\repos\CodeAlongTh\CodeAlongTh\bin\Debug\net5.0\CodeAlongTh.runtimeconfig.dev.json
+C:\Users\stine\source\repos\CodeAlongTh\CodeAlongTh\bin\Debug\net5.0\CodeAlongTh.dll
+C:\Users\stine\source\repos\CodeAlongTh\CodeAlongTh\bin\Debug\net5.0\ref\CodeAlongTh.dll
+C:\Users\stine\source\repos\CodeAlongTh\CodeAlongTh\bin\Debug\net5.0\CodeAlongTh.pdb
+C:\Users\stine\source\repos\CodeAlongTh\CodeAlongTh\obj\Debug\net5.0\CodeAlongTh.csproj.AssemblyReference.cache
+C:\Users\stine\source\repos\CodeAlongTh\CodeAlongTh\obj\Debug\net5.0\CodeAlongTh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stine\source\repos\CodeAlongTh\CodeAlongTh\obj\Debug\net5.0\CodeAlongTh.AssemblyInfoInputs.cache
+C:\Users\stine\source\repos\CodeAlongTh\CodeAlongTh\obj\Debug\net5.0\CodeAlongTh.AssemblyInfo.cs
+C:\Users\stine\source\repos\CodeAlongTh\CodeAlongTh\obj\Debug\net5.0\CodeAlongTh.csproj.CoreCompileInputs.cache
+C:\Users\stine\source\repos\CodeAlongTh\CodeAlongTh\obj\Debug\net5.0\CodeAlongTh.dll
+C:\Users\stine\source\repos\CodeAlongTh\CodeAlongTh\obj\Debug\net5.0\ref\CodeAlongTh.dll
+C:\Users\stine\source\repos\CodeAlongTh\CodeAlongTh\obj\Debug\net5.0\CodeAlongTh.pdb
+C:\Users\stine\source\repos\CodeAlongTh\CodeAlongTh\obj\Debug\net5.0\CodeAlongTh.genruntimeconfig.cache
